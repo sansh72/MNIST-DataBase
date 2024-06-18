@@ -40,3 +40,18 @@ To run this project, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/sansh72/mnist-digit-classification.git
+
+## Results
+After training for 3 epochs, the model achieves the following performance on the testing dataset:
+
+Loss: 0.09790500998497009
+Accuracy: 0.9702000021934509
+
+## Future Work
+This project marks the beginning of my journey into Machine Learning. Future directions include:
+
+Exploring more complex neural network architectures.
+Applying the model to other datasets and domains.
+Enhancing model performance through hyperparameter tuning and data augmentation.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
